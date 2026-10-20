@@ -1,0 +1,397 @@
+{
+ "id": "16201",
+ "clips": [
+  {
+   "name": "Atk_Dash_Qing",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Atk_Dash_Qing.glb",
+   "face": false,
+   "duration": 3.0,
+   "loop": false,
+   "bytes": 635756,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Atk_Dash_Zhong",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Atk_Dash_Zhong.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 479620,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Attack",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Attack.glb",
+   "face": false,
+   "duration": 4.9333,
+   "loop": false,
+   "bytes": 628044
+  },
+  {
+   "name": "Attack_1",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Attack_1.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 529540,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Attack_2",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Attack_2.glb",
+   "face": false,
+   "duration": 3.1333,
+   "loop": false,
+   "bytes": 540692,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Attack_3",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.6333,
+   "loop": false,
+   "bytes": 487692
+  },
+  {
+   "name": "Attack_4",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Attack_4.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 561524,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Dazed",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 305116,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Die",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Die.glb",
+   "face": false,
+   "duration": 2.8333,
+   "loop": false,
+   "bytes": 551132,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Dodge",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9,
+   "loop": false,
+   "bytes": 349156,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "HurtA",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/HurtA.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 310792,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "HurtB",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1667,
+   "loop": false,
+   "bytes": 372508,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Idle",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Idle.glb",
+   "face": false,
+   "duration": 6.0,
+   "loop": true,
+   "bytes": 308940,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Out01",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Out01.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": false,
+   "bytes": 445696,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Ready",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Ready.glb",
+   "face": true,
+   "duration": 8.3333,
+   "loop": false,
+   "bytes": 554708,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Ready_Loop",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Ready_Loop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 257508,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Run",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Run.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": true,
+   "bytes": 324876,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Rush",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Rush.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": true,
+   "bytes": 325588,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "RushStop",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 342980,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Main_Qing",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Main_Qing.glb",
+   "face": false,
+   "duration": 1.7833,
+   "loop": false,
+   "bytes": 500564,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Main_Qing_Pro",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Main_Qing_Pro.glb",
+   "face": false,
+   "duration": 2.8,
+   "loop": false,
+   "bytes": 672920,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Main_Qing_SwordEnergy",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Main_Qing_SwordEnergy.glb",
+   "face": false,
+   "duration": 4.6,
+   "loop": false,
+   "bytes": 743996,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Main_Zhong",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Main_Zhong.glb",
+   "face": false,
+   "duration": 2.7167,
+   "loop": false,
+   "bytes": 420644,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Main_Zhong_SwordEnergy",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Main_Zhong_SwordEnergy.glb",
+   "face": false,
+   "duration": 3.2333,
+   "loop": false,
+   "bytes": 530044,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Sup_Qing_Loop",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Sup_Qing_Loop.glb",
+   "face": false,
+   "duration": 0.3333,
+   "loop": true,
+   "bytes": 269820,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Sup_Qing_Start",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Sup_Qing_Start.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": false,
+   "bytes": 328592,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Skill_Sup_Zhong",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Skill_Sup_Zhong.glb",
+   "face": false,
+   "duration": 5.7333,
+   "loop": false,
+   "bytes": 766316,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Timeline01",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Timeline01.glb",
+   "face": true,
+   "duration": 4.4333,
+   "loop": false,
+   "bytes": 449664,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Timeline02",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Timeline02.glb",
+   "face": true,
+   "duration": 4.4667,
+   "loop": false,
+   "bytes": 468440,
+   "hide": [
+    "weapon1"
+   ]
+  },
+  {
+   "name": "Ultra01_NoTL",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Ultra01_NoTL.glb",
+   "face": false,
+   "duration": 6.7333,
+   "loop": false,
+   "bytes": 766192,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Ultra01_TL",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Ultra01_TL.glb",
+   "face": false,
+   "duration": 5.5333,
+   "loop": false,
+   "bytes": 672048,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Ultra02_NoTL",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Ultra02_NoTL.glb",
+   "face": false,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 914456,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Ultra02_TL",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Ultra02_TL.glb",
+   "face": false,
+   "duration": 5.1667,
+   "loop": false,
+   "bytes": 869648,
+   "hide": [
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Victory",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Victory.glb",
+   "face": true,
+   "duration": 5.4333,
+   "loop": false,
+   "bytes": 469324,
+   "hide": [
+    "weapon1",
+    "weapon2"
+   ]
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": true,
+   "bytes": 290448,
+   "hide": [
+    "weapon1",
+    "weapon2"
+   ]
+  },
+  {
+   "name": "Walk",
+   "file": "Firstlight_Noya/Firstlight_Noya_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 309580,
+   "hide": [
+    "weapon2"
+   ]
+  }
+ ]
+}

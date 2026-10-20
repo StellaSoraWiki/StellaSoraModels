@@ -85,6 +85,16 @@
   "label": "Firenze"
  },
  {
+  "id": "11003",
+  "file": "Firenze/Firenze_Deadly_Beauty_Unparalleled_Allure.glb",
+  "label": "Firenze: Deadly Beauty, Unparalleled Allure"
+ },
+ {
+  "id": "16201",
+  "file": "Firstlight_Noya/Firstlight_Noya.glb",
+  "label": "Firstlight Noya"
+ },
+ {
   "id": "12601",
   "file": "Flora/Flora.glb",
   "label": "Flora"
@@ -233,6 +243,11 @@
   "id": "15501",
   "file": "Shia/Shia.glb",
   "label": "Shia"
+ },
+ {
+  "id": "15503",
+  "file": "Shia/Shia_Call_of_the_Coral_Sea.glb",
+  "label": "Shia: Call of the Coral Sea"
  },
  {
   "id": "11301",

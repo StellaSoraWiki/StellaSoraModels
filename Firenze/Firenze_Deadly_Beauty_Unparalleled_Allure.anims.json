@@ -1,0 +1,54 @@
+{
+ "id": "11003",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Firenze/Firenze_Deadly_Beauty_Unparalleled_Allure_anims/Ready.glb",
+   "face": true,
+   "duration": 6.2667,
+   "loop": false,
+   "bytes": 230720,
+   "hide": [
+    "sword"
+   ]
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Firenze/Firenze_Deadly_Beauty_Unparalleled_Allure_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.1667,
+   "loop": true,
+   "bytes": 146500,
+   "hide": [
+    "sword"
+   ]
+  },
+  {
+   "name": "Timeline",
+   "file": "Firenze/Firenze_Deadly_Beauty_Unparalleled_Allure_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.5667,
+   "loop": false,
+   "bytes": 226236
+  },
+  {
+   "name": "Victory",
+   "file": "Firenze/Firenze_Deadly_Beauty_Unparalleled_Allure_anims/Victory.glb",
+   "face": true,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 196140
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Firenze/Firenze_Deadly_Beauty_Unparalleled_Allure_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.2,
+   "loop": true,
+   "bytes": 142200,
+   "hide": [
+    "sword"
+   ]
+  }
+ ]
+}

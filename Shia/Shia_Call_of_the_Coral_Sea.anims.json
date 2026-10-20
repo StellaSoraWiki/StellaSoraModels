@@ -1,0 +1,51 @@
+{
+ "id": "15503",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Shia/Shia_Call_of_the_Coral_Sea_anims/Ready.glb",
+   "face": true,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 485812
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Shia/Shia_Call_of_the_Coral_Sea_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 285608
+  },
+  {
+   "name": "Timeline",
+   "file": "Shia/Shia_Call_of_the_Coral_Sea_anims/Timeline.glb",
+   "face": true,
+   "duration": 4.6167,
+   "loop": false,
+   "bytes": 485644
+  },
+  {
+   "name": "Victory",
+   "file": "Shia/Shia_Call_of_the_Coral_Sea_anims/Victory.glb",
+   "face": true,
+   "duration": 4.6667,
+   "loop": true,
+   "bytes": 389664,
+   "hide": [
+    "surfboard"
+   ]
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Shia/Shia_Call_of_the_Coral_Sea_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 269672,
+   "hide": [
+    "surfboard"
+   ]
+  }
+ ]
+}
