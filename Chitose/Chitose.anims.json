@@ -472,6 +472,13 @@
    "duration": 2.0,
    "loop": true,
    "bytes": 215864,
+   "show": [
+    "cup",
+    "daojia",
+    "face_07sp",
+    "leg",
+    "quilt"
+   ],
    "hide": [
     "weapon1"
    ]

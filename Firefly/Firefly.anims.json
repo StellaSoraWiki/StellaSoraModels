@@ -111,6 +111,10 @@
    "duration": 1.8333,
    "loop": false,
    "bytes": 279400,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1032,6 +1036,10 @@
    "duration": 1.6667,
    "loop": false,
    "bytes": 261268,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_light_circle_2",
     "weapon_light_circle_3",
@@ -1045,6 +1053,10 @@
    "duration": 1.0,
    "loop": false,
    "bytes": 179312,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_light_circle_2",
     "weapon_light_circle_3",
@@ -1060,6 +1072,10 @@
    "duration": 5.3333,
    "loop": false,
    "bytes": 429304,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1094,6 +1110,10 @@
    "duration": 1.4,
    "loop": false,
    "bytes": 230168,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1128,6 +1148,10 @@
    "duration": 1.2333,
    "loop": false,
    "bytes": 265648,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1162,6 +1186,10 @@
    "duration": 1.4333,
    "loop": false,
    "bytes": 270108,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1196,6 +1224,10 @@
    "duration": 3.6,
    "loop": false,
    "bytes": 315352,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1229,7 +1261,11 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 6496
+   "bytes": 6496,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ]
   },
   {
    "name": "Support_Skill_Blade_Idle",
@@ -1238,6 +1274,10 @@
    "duration": 1.6667,
    "loop": true,
    "bytes": 195424,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1272,6 +1312,10 @@
    "duration": 4.1667,
    "loop": false,
    "bytes": 329696,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_downL",
     "weapon_downL_light",
@@ -1294,6 +1338,10 @@
    "duration": 0.7333,
    "loop": true,
    "bytes": 198708,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ],
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1540,7 +1588,11 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 6200
+   "bytes": 6200,
+   "show": [
+    "weapon_sword",
+    "weapon_sword_light"
+   ]
   }
  ]
 }

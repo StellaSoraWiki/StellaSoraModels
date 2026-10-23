@@ -177,6 +177,9 @@
    "duration": 5.55,
    "loop": false,
    "bytes": 342156,
+   "show": [
+    "coin_break"
+   ],
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -190,6 +193,9 @@
    "duration": 3.1167,
    "loop": true,
    "bytes": 206352,
+   "show": [
+    "coin_break"
+   ],
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -253,6 +259,9 @@
    "duration": 6.0,
    "loop": false,
    "bytes": 773324,
+   "show": [
+    "yubawang"
+   ],
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -266,6 +275,9 @@
    "duration": 5.5,
    "loop": false,
    "bytes": 503880,
+   "show": [
+    "bag"
+   ],
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -280,6 +292,9 @@
    "duration": 6.8,
    "loop": false,
    "bytes": 476036,
+   "show": [
+    "yubawang"
+   ],
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -293,6 +308,9 @@
    "duration": 5.3,
    "loop": false,
    "bytes": 440272,
+   "show": [
+    "yubawang"
+   ],
    "hide": [
     "blowfish",
     "cuttlefish",

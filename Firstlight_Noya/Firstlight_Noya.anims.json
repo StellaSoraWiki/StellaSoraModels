@@ -365,6 +365,9 @@
    "duration": 5.4333,
    "loop": false,
    "bytes": 469324,
+   "show": [
+    "face09_sp"
+   ],
    "hide": [
     "weapon1",
     "weapon2"
@@ -377,6 +380,9 @@
    "duration": 3.3333,
    "loop": true,
    "bytes": 290448,
+   "show": [
+    "face09_sp"
+   ],
    "hide": [
     "weapon1",
     "weapon2"

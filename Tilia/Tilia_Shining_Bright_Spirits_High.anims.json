@@ -7,7 +7,7 @@
    "face": true,
    "duration": 6.0,
    "loop": true,
-   "bytes": 312176
+   "bytes": 312032
   },
   {
    "name": "ReadyLoop",
@@ -15,7 +15,7 @@
    "face": true,
    "duration": 3.0,
    "loop": false,
-   "bytes": 132448
+   "bytes": 132268
   },
   {
    "name": "Timeline",

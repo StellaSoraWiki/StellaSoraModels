@@ -50,14 +50,6 @@
    "bytes": 266920
   },
   {
-   "name": "Atk_Qiang",
-   "file": "Wraith/Wraith_anims/Atk_Qiang.glb",
-   "face": false,
-   "duration": 3.6,
-   "loop": false,
-   "bytes": 361140
-  },
-  {
    "name": "Atk_Qiang_1",
    "file": "Wraith/Wraith_anims/Atk_Qiang_1.glb",
    "face": false,
@@ -308,14 +300,6 @@
   {
    "name": "Take 001",
    "file": "Wraith/Wraith_anims/Take_001.glb",
-   "face": false,
-   "duration": 6.7333,
-   "loop": false,
-   "bytes": 253040
-  },
-  {
-   "name": "Take 001",
-   "file": "Wraith/Wraith_anims/Take_001_.glb",
    "face": false,
    "duration": 1.2333,
    "loop": false,

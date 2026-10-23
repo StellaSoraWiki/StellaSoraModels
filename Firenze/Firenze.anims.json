@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 198128
+   "bytes": 240212
   },
   {
    "name": "Attack_2",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.2667,
    "loop": true,
-   "bytes": 197300
+   "bytes": 234172
   },
   {
    "name": "Attack_3",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.3,
    "loop": true,
-   "bytes": 238284
+   "bytes": 271356
   },
   {
    "name": "Attack_4",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 262364
+   "bytes": 301072
   },
   {
    "name": "Attack_44",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 167424
+   "bytes": 199792
   },
   {
    "name": "ChongCi",
@@ -55,23 +55,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 238324
-  },
-  {
-   "name": "Dash",
-   "file": "Firenze/Firenze_anims/Dash.glb",
-   "face": false,
-   "duration": 0.6667,
-   "loop": true,
-   "bytes": 126144
-  },
-  {
-   "name": "DashStop",
-   "file": "Firenze/Firenze_anims/DashStop.glb",
-   "face": false,
-   "duration": 1.3333,
-   "loop": false,
-   "bytes": 143916
+   "bytes": 307476
   },
   {
    "name": "Dazed",
@@ -79,7 +63,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 144748
+   "bytes": 174236
   },
   {
    "name": "Die",
@@ -87,7 +71,7 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 236568
+   "bytes": 276436
   },
   {
    "name": "Dodge",
@@ -95,7 +79,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 203352
+   "bytes": 237232
   },
   {
    "name": "Hurt",
@@ -103,7 +87,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 187072
+   "bytes": 220732
   },
   {
    "name": "Hurt1",
@@ -111,7 +95,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 175592
+   "bytes": 208368
   },
   {
    "name": "Hurt2",
@@ -119,7 +103,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 169500
+   "bytes": 202584
   },
   {
    "name": "Idle",
@@ -127,7 +111,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 155992
+   "bytes": 189884
   },
   {
    "name": "Main_Skill_Base_SanLianZhan",
@@ -135,15 +119,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 297704
-  },
-  {
-   "name": "Open",
-   "file": "Firenze/Firenze_anims/Open.glb",
-   "face": false,
-   "duration": 1.1667,
-   "loop": false,
-   "bytes": 155124
+   "bytes": 357052
   },
   {
    "name": "Out01",
@@ -151,7 +127,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 185088
+   "bytes": 219992
   },
   {
    "name": "Ready",
@@ -199,7 +175,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 169220
+   "bytes": 208144
   },
   {
    "name": "Rush_1_Start",
@@ -207,7 +183,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 191140
+   "bytes": 218024
   },
   {
    "name": "Rush_2_Loop",
@@ -215,7 +191,7 @@
    "face": false,
    "duration": 2.1333,
    "loop": true,
-   "bytes": 175148
+   "bytes": 210208
   },
   {
    "name": "Rush_3_Stop",
@@ -223,7 +199,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 172104
+   "bytes": 203188
   },
   {
    "name": "Support_Skill_Base_QuanZhang",
@@ -231,7 +207,7 @@
    "face": false,
    "duration": 3.1,
    "loop": false,
-   "bytes": 220824
+   "bytes": 266360
   },
   {
    "name": "Ultra_NoTL",
@@ -239,7 +215,7 @@
    "face": false,
    "duration": 6.5,
    "loop": false,
-   "bytes": 353292
+   "bytes": 435828
   },
   {
    "name": "Ultra_NoTL_H6",
@@ -247,7 +223,7 @@
    "face": false,
    "duration": 7.0,
    "loop": false,
-   "bytes": 364052
+   "bytes": 443208
   },
   {
    "name": "Ultra_Shadow",
@@ -263,7 +239,7 @@
    "face": false,
    "duration": 5.2333,
    "loop": false,
-   "bytes": 324608
+   "bytes": 396220
   },
   {
    "name": "Ultra_TL_H6",
@@ -271,7 +247,7 @@
    "face": false,
    "duration": 5.7333,
    "loop": false,
-   "bytes": 336332
+   "bytes": 409028
   },
   {
    "name": "Victory",
@@ -301,7 +277,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 146372
+   "bytes": 192628
   },
   {
    "name": "timeline",

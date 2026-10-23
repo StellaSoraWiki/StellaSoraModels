@@ -98,7 +98,10 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 162292
+   "bytes": 162292,
+   "show": [
+    "weapon3"
+   ]
   },
   {
    "name": "Reload",

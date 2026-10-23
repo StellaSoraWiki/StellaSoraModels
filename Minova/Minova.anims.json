@@ -245,6 +245,9 @@
    "duration": 0.4333,
    "loop": true,
    "bytes": 339800,
+   "show": [
+    "weapon4"
+   ],
    "hide": [
     "weapon2"
    ]
@@ -256,6 +259,9 @@
    "duration": 0.6,
    "loop": true,
    "bytes": 350440,
+   "show": [
+    "weapon4"
+   ],
    "hide": [
     "weapon2"
    ]
@@ -267,6 +273,9 @@
    "duration": 2.8333,
    "loop": false,
    "bytes": 592824,
+   "show": [
+    "weapon4"
+   ],
    "hide": [
     "weapon2"
    ]

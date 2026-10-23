@@ -380,6 +380,42 @@
    ]
   },
   {
+   "name": "Skill_Sup_3_Soldier",
+   "file": "Eleanor/Eleanor_anims/Skill_Sup_3_Soldier.glb",
+   "face": false,
+   "duration": 3.8333,
+   "loop": false,
+   "bytes": 499820,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
+  },
+  {
+   "name": "Skill_Sup_6_Soldier",
+   "file": "Eleanor/Eleanor_anims/Skill_Sup_6_Soldier.glb",
+   "face": false,
+   "duration": 6.6667,
+   "loop": false,
+   "bytes": 795288,
+   "hide": [
+    "weapon1",
+    "weapon2",
+    "weapon3",
+    "weapon3_01",
+    "weapon4",
+    "weapon4_01",
+    "weapon5",
+    "weapon5_01"
+   ]
+  },
+  {
    "name": "Timeline",
    "file": "Eleanor/Eleanor_anims/Timeline.glb",
    "face": true,
@@ -428,6 +464,9 @@
    "duration": 7.0,
    "loop": false,
    "bytes": 324640,
+   "show": [
+    "face08_sp01"
+   ],
    "hide": [
     "weapon1",
     "weapon2",
@@ -446,6 +485,9 @@
    "duration": 3.0,
    "loop": true,
    "bytes": 167632,
+   "show": [
+    "face08_sp01"
+   ],
    "hide": [
     "weapon1",
     "weapon2",

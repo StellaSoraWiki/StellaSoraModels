@@ -2,20 +2,12 @@
  "id": "15501",
  "clips": [
   {
-   "name": "Attack",
-   "file": "Shia/Shia_anims/Attack.glb",
-   "face": false,
-   "duration": 5.5,
-   "loop": false,
-   "bytes": 501848
-  },
-  {
    "name": "Attack_1",
    "file": "Shia/Shia_anims/Attack_1.glb",
    "face": false,
    "duration": 2.5333,
    "loop": false,
-   "bytes": 291236
+   "bytes": 479836
   },
   {
    "name": "Attack_2",
@@ -23,23 +15,23 @@
    "face": false,
    "duration": 2.2667,
    "loop": false,
-   "bytes": 303808
+   "bytes": 480116
   },
   {
    "name": "Attack_3",
    "file": "Shia/Shia_anims/Attack_3.glb",
    "face": false,
-   "duration": 3.8333,
+   "duration": 2.6,
    "loop": false,
-   "bytes": 325808
+   "bytes": 516004
   },
   {
    "name": "Attack_4",
    "file": "Shia/Shia_anims/Attack_4.glb",
    "face": false,
-   "duration": 2.8667,
+   "duration": 2.4333,
    "loop": false,
-   "bytes": 324192
+   "bytes": 516240
   },
   {
    "name": "Dazed",
@@ -47,7 +39,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 235940
+   "bytes": 346872
   },
   {
    "name": "Death",
@@ -55,7 +47,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 417144
+   "bytes": 612096
   },
   {
    "name": "Dodge",
@@ -63,15 +55,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 358652
-  },
-  {
-   "name": "Dodge1",
-   "file": "Shia/Shia_anims/Dodge1.glb",
-   "face": false,
-   "duration": 1.4,
-   "loop": false,
-   "bytes": 355804
+   "bytes": 493108
   },
   {
    "name": "HurtA1",
@@ -79,7 +63,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 279904
+   "bytes": 413884
   },
   {
    "name": "HurtA2",
@@ -87,7 +71,7 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 253156
+   "bytes": 402312
   },
   {
    "name": "HurtB",
@@ -95,7 +79,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 298096
+   "bytes": 447668
   },
   {
    "name": "Idle",
@@ -103,7 +87,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 223008
+   "bytes": 342768
   },
   {
    "name": "Out01",
@@ -111,7 +95,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 298420
+   "bytes": 467040
   },
   {
    "name": "Ready",
@@ -135,7 +119,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 214144
+   "bytes": 357212
   },
   {
    "name": "Rush",
@@ -143,7 +127,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 257608
+   "bytes": 398468
   },
   {
    "name": "RushStop",
@@ -151,7 +135,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 290808
+   "bytes": 441240
   },
   {
    "name": "Skill_Main_CallUAV",
@@ -159,7 +143,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": false,
-   "bytes": 418884
+   "bytes": 616492
   },
   {
    "name": "Skill_Sup_Surf_White_End",
@@ -167,7 +151,7 @@
    "face": false,
    "duration": 1.0333,
    "loop": false,
-   "bytes": 254552
+   "bytes": 382696
   },
   {
    "name": "Skill_Support_Surf_Black",
@@ -175,7 +159,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 252348
+   "bytes": 394984
   },
   {
    "name": "Skill_Support_Surf_White",
@@ -183,7 +167,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 263172
+   "bytes": 411412
   },
   {
    "name": "Timeline",
@@ -199,7 +183,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 287812
+   "bytes": 445336
   },
   {
    "name": "Ultra_Loop",
@@ -207,15 +191,15 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 208700
+   "bytes": 322400
   },
   {
-   "name": "Ultra_Stat_NoTL",
-   "file": "Shia/Shia_anims/Ultra_Stat_NoTL.glb",
+   "name": "Ultra_Start_NoTL",
+   "file": "Shia/Shia_anims/Ultra_Start_NoTL.glb",
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 327280
+   "bytes": 520992
   },
   {
    "name": "Victory",
@@ -245,7 +229,7 @@
    "face": false,
    "duration": 1.8667,
    "loop": true,
-   "bytes": 248416
+   "bytes": 387620
   }
  ]
 }

@@ -242,14 +242,6 @@
    "duration": 1.0667,
    "loop": false,
    "bytes": 200780
-  },
-  {
-   "name": "Cosette_hand",
-   "file": "Cosette/Cosette_anims/Cosette_hand.glb",
-   "face": false,
-   "duration": 3.9667,
-   "loop": false,
-   "bytes": 1220
   }
  ]
 }

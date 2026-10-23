@@ -320,6 +320,12 @@
    "duration": 5.6833,
    "loop": false,
    "bytes": 579084,
+   "show": [
+    "Teapot01",
+    "Teapot02",
+    "Teapot03",
+    "Teapot04"
+   ],
    "hide": [
     "weapon"
    ]
@@ -331,6 +337,12 @@
    "duration": 2.5,
    "loop": true,
    "bytes": 295048,
+   "show": [
+    "Teapot01",
+    "Teapot02",
+    "Teapot03",
+    "Teapot04"
+   ],
    "hide": [
     "weapon"
    ]

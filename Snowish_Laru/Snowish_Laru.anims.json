@@ -717,6 +717,9 @@
    "duration": 3.2,
    "loop": true,
    "bytes": 225264,
+   "show": [
+    "item"
+   ],
    "hide": [
     "gun",
     "weapon",

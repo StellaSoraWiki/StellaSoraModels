@@ -484,6 +484,9 @@
    "duration": 2.0333,
    "loop": true,
    "bytes": 222676,
+   "show": [
+    "face_01_02_03_15_16_17_sp"
+   ],
    "hide": [
     "weapon2"
    ]
