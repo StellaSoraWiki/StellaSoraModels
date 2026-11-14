@@ -165,6 +165,11 @@
   "label": "Laru"
  },
  {
+  "id": "16101",
+  "file": "Leafia/Leafia.glb",
+  "label": "Leafia"
+ },
+ {
   "id": "13201",
   "file": "Minova/Minova.glb",
   "label": "Minova"
@@ -293,5 +298,10 @@
   "id": "14301",
   "file": "Wraith/Wraith.glb",
   "label": "Wraith"
+ },
+ {
+  "id": "14303",
+  "file": "Wraith/Wraith_Silver_Wind_Toward_the_Blue.glb",
+  "label": "Wraith: Silver Wind Toward the Blue"
  }
 ]

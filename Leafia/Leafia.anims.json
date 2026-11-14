@@ -1,0 +1,250 @@
+{
+ "id": "16101",
+ "clips": [
+  {
+   "name": "Attack_1",
+   "file": "Leafia/Leafia_anims/Attack_1.glb",
+   "face": false,
+   "duration": 1.2,
+   "loop": false,
+   "bytes": 317596,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Attack_2",
+   "file": "Leafia/Leafia_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 312732,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Attack_3",
+   "file": "Leafia/Leafia_anims/Attack_3.glb",
+   "face": false,
+   "duration": 1.4333,
+   "loop": false,
+   "bytes": 329368,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Dazed",
+   "file": "Leafia/Leafia_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.3333,
+   "loop": true,
+   "bytes": 239684,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Die",
+   "file": "Leafia/Leafia_anims/Die.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": false,
+   "bytes": 369260
+  },
+  {
+   "name": "Dodge",
+   "file": "Leafia/Leafia_anims/Dodge.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 304728,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "HurtA",
+   "file": "Leafia/Leafia_anims/HurtA.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 287704,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "HurtB",
+   "file": "Leafia/Leafia_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.1333,
+   "loop": false,
+   "bytes": 324496,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Idle",
+   "file": "Leafia/Leafia_anims/Idle.glb",
+   "face": false,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 207328,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Out01",
+   "file": "Leafia/Leafia_anims/Out01.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 301040,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Ready",
+   "file": "Leafia/Leafia_anims/Ready.glb",
+   "face": true,
+   "duration": 6.1667,
+   "loop": false,
+   "bytes": 419744,
+   "show": [
+    "weapon02",
+    "weapon02_1"
+   ],
+   "hide": [
+    "weapon01",
+    "weapon03"
+   ]
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Leafia/Leafia_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 265180,
+   "show": [
+    "weapon02_1"
+   ],
+   "hide": [
+    "weapon01",
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Run",
+   "file": "Leafia/Leafia_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 274236,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Rush",
+   "file": "Leafia/Leafia_anims/Rush.glb",
+   "face": false,
+   "duration": 0.6,
+   "loop": true,
+   "bytes": 270624,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "RushStop",
+   "file": "Leafia/Leafia_anims/RushStop.glb",
+   "face": false,
+   "duration": 1.1,
+   "loop": false,
+   "bytes": 285268,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Skill_Main",
+   "file": "Leafia/Leafia_anims/Skill_Main.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 340240,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Skill_Sup",
+   "file": "Leafia/Leafia_anims/Skill_Sup.glb",
+   "face": false,
+   "duration": 1.5333,
+   "loop": false,
+   "bytes": 347148,
+   "hide": [
+    "weapon03"
+   ]
+  },
+  {
+   "name": "Timeline",
+   "file": "Leafia/Leafia_anims/Timeline.glb",
+   "face": true,
+   "duration": 2.9667,
+   "loop": false,
+   "bytes": 267192,
+   "hide": [
+    "weapon01"
+   ]
+  },
+  {
+   "name": "Ultra_NoTL",
+   "file": "Leafia/Leafia_anims/Ultra_NoTL.glb",
+   "face": false,
+   "duration": 3.8,
+   "loop": false,
+   "bytes": 437164
+  },
+  {
+   "name": "Victory",
+   "file": "Leafia/Leafia_anims/Victory.glb",
+   "face": true,
+   "duration": 5.3333,
+   "loop": false,
+   "bytes": 297580,
+   "hide": [
+    "weapon01"
+   ]
+  },
+  {
+   "name": "Victory_Loop",
+   "file": "Leafia/Leafia_anims/Victory_Loop.glb",
+   "face": true,
+   "duration": 2.0,
+   "loop": true,
+   "bytes": 217456,
+   "hide": [
+    "weapon01"
+   ]
+  },
+  {
+   "name": "Walk",
+   "file": "Leafia/Leafia_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 268720,
+   "hide": [
+    "weapon03"
+   ]
+  }
+ ]
+}

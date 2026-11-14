@@ -1,0 +1,45 @@
+{
+ "id": "14303",
+ "clips": [
+  {
+   "name": "Ready",
+   "file": "Wraith/Wraith_Silver_Wind_Toward_the_Blue_anims/Ready.glb",
+   "face": true,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 246324
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Wraith/Wraith_Silver_Wind_Toward_the_Blue_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 174228
+  },
+  {
+   "name": "Timeline",
+   "file": "Wraith/Wraith_Silver_Wind_Toward_the_Blue_anims/Timeline.glb",
+   "face": true,
+   "duration": 2.7333,
+   "loop": false,
+   "bytes": 273888
+  },
+  {
+   "name": "Victory",
+   "file": "Wraith/Wraith_Silver_Wind_Toward_the_Blue_anims/Victory.glb",
+   "face": true,
+   "duration": 4.4333,
+   "loop": true,
+   "bytes": 245652
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Wraith/Wraith_Silver_Wind_Toward_the_Blue_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.5667,
+   "loop": false,
+   "bytes": 157056
+  }
+ ]
+}
